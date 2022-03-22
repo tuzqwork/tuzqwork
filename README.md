@@ -7,7 +7,7 @@
 - 🌱 Photo, Video, UI/UX Web Design are my second way in my life.
 
 
-## 📫 How to reach me:
+## 📫 Reach me:
 <p align="center">
   <a href="https://www.linkedin.com/in/nguy%E1%BB%85n-thanh-t%C3%B9ng-6ba993225/" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
