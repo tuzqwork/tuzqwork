@@ -4,7 +4,7 @@
 
 - ✍ I'm currently learning **Chemical Engineering** at [Ho Chi Minh city University of Technology](https://hcmut.edu.vn) (HCMUT).
 
-- 🌱 Photo, Video, UI/UX Web Design are my second way in my life.
+- 🌱 Photo, Video, UI/UX Web Design are the second way in my life.
 
 
 ## 📫 Reach me:
