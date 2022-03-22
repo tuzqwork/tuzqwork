@@ -1,5 +1,5 @@
 <h1 align="center"👋 Welcome to my Github 👋</h1>
-<h3 align="center">I'm Tung, a designer from Vietnam <img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
+<h3 align="center"><img align="left" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>I'm Tung, a designer from Vietnam <img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> <img src="https://badges.pufler.dev/repos/tuzqwork" alt="tuzqwork" /> </p>
 
 - ✍ I'm currently learning **Chemical Engineering** at [Ho Chi Minh city University of Technology](https://hcmut.edu.vn) (HCMUT).
