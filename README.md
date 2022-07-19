@@ -5,7 +5,7 @@
 - ✍ I'm currently learning **Chemical Engineering** at [Ho Chi Minh city University of Technology](https://hcmut.edu.vn) (HCMUT).
 
 - 🌱 Photo, Video, UI/UX Web Design are the second way in my life.
-
+<a href="https://app.daily.dev/tuzqmant"><img src="https://api.daily.dev/devcards/f8a5213f8bf3437eb9018cd5d8b7ff22.png?r=jsd" width="400" alt="Tung Nguyen's Dev Card"/></a>
 
 ## 📫 Reach me:
 <p align="center">
