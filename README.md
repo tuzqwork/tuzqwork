@@ -2,8 +2,9 @@
 <h3 align="center"><img align="left" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>I'm Tung, a designer from Vietnam <img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> </p>
 <a href="https://app.daily.dev/tuzqmant"><img src="https://api.daily.dev/devcards/f8a5213f8bf3437eb9018cd5d8b7ff22.png?r=jsd" width="300" alt="Tung Nguyen's Dev Card"/></a>
+<p>
 - ✍ I'm currently learning **Chemical Engineering** at [Ho Chi Minh city University of Technology](https://hcmut.edu.vn) (HCMUT).
-
+</p>
 - 🌱 Photo, Video, UI/UX Web Design are the second way in my life.
 ## 📫 Reach me:
 <p align="center">
