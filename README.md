@@ -1,7 +1,7 @@
 <h1 align="center">👋 Welcome to my Github 👋</h1>
 <h3 align="center"><img align="left" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>I'm Tung, a designer from Vietnam <img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
 </p>
 <a href="https://app.daily.dev/tuzqmant">
   <img src="https://api.daily.dev/devcards/f8a5213f8bf3437eb9018cd5d8b7ff22.png?r=jsd" width="300" alt="Tung Nguyen's Dev Card"/>
@@ -10,7 +10,7 @@
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
 - Photo, Video, UI/UX Web Design are the second way in my life.
-📫 Reach me:
+<br> 📫 Reach me:
 <p align="center">
   <a href="www.linkedin.com/in/tuzqwork" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
