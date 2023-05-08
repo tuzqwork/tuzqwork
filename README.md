@@ -1,4 +1,9 @@
 <h1 align="center"> 👋 Nguyen Thanh Tung<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div>
+<p>
+  - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
+</p>
+</div>
 <p align="center">
    <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="/"/>
 </p>
@@ -28,10 +33,5 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
  </div>
-<div>
-<p>
-  - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
-</p>
-</div>
 
 
