@@ -30,9 +30,6 @@
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
 </p>
-<a href="https://app.daily.dev/tuzqmant">
-  <img src="https://api.daily.dev/devcards/f8a5213f8bf3437eb9018cd5d8b7ff22.png?r=jsd" width="300" alt="Tung Nguyen's Dev Card"/>
-</a>
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
