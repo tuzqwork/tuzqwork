@@ -1,6 +1,6 @@
 <h1 align="center"> 👋 Nguyen Thanh Tung<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="/"/>
+   <img align="center" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="/"/>
 </p>
 
 
@@ -24,8 +24,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </div>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=lilhuy0405&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilhuy0405&layout=compact&theme=aura&langs_count=9" />
+<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
 <h3 align="center"><img align="left" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/>I'm Tung, a designer from Vietnam <img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
@@ -36,9 +36,5 @@
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
-- Photo, Video, UI/UX Web Design are the second way in my life.
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
 
 
