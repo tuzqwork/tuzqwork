@@ -24,13 +24,8 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </div>
-<img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
-<img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
-<h3 align="center"><img align="left" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/><img align="right" src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/> </h3>
-<p align="center"> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
-</p>
-<br>
+<img align="center" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
+<img align="center" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
