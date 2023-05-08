@@ -1,20 +1,28 @@
-<h1 align="center"> 👋 LIL HUY - THE CODING CAT<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> 👋 Nguyen Thanh Tung<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="Coding Cat"/>
+   <img align="center" src="https://data.whicdn.com/images/131201358/original.gif" alt="/"/>
 </p>
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/lilhuy0405/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="www.linkedin.com/in/tuzqwork" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.youtube.com/channel/UCa5Csu-P899n7729HnTEoTQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://www.facebook.com/tuzqmant/" alt="Facebook">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/tuzqwork" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="https://www.youtube.com/channel/UCfcJbU5vE9_hsBsKKzwFdnA" alt="Youtube channel" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
   </a>
-  <a href="https://www.facebook.com/luuhuy04052001" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  <a href="https://www.instagram.com/tuzq.mant/" alt="Instagram" target="_blank" >
+    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
   </a>
-  
+  <a href="mailto:tuzqwok@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lilhuy0405&label=Profile%20views&color=0e75b6&style=flat" alt="lilhuy0405" /> </p>
 <h1 align="center"></h1>
@@ -34,27 +42,6 @@
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
 - Photo, Video, UI/UX Web Design are the second way in my life.
-<br> 📫 Reach me:
-<p align="center">
-  <a href="www.linkedin.com/in/tuzqwork" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
-  </a>
-  <a href="https://www.facebook.com/tuzqmant/" alt="Facebook">
-    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
-  </a> 
-  <a href="https://github.com/tuzqwork" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
-  </a> 
-  <a href="https://www.youtube.com/channel/UCfcJbU5vE9_hsBsKKzwFdnA" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.instagram.com/tuzq.mant/" alt="Instagram" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
-  </a>
-  <a href="mailto:tuzqwok@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
-  </a>
-</p>
       <p align="center"> 
         <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
       </p>
