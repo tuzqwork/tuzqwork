@@ -30,6 +30,7 @@
 <p align="center"> 
   <img align="center" src="https://komarev.com/ghpvc/?username=tuzqwork" alt="tuzqwork" /> 
 </p>
+<br>
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
