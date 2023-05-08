@@ -28,8 +28,10 @@
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
  </div>
+<div>
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
 </p>
+</div>
 
 
