@@ -32,6 +32,9 @@
 <div>
 <img align="left" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api?username=tuzqwork&count_private=true&show_icons=true&theme=tokyonight" />
 <img align="right" height="150px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuzqwork&layout=compact&theme=aura&langs_count=9" />
+  <p align="center">
+   <img align="center" src="https://cdn.dribbble.com/userupload/16208234/file/original-b3b4712525db2ad9509ca2ed3b43006c.gif" alt="/"/>
+</p>
  </div>
 
 
