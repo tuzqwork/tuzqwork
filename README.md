@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Nguyen Thanh Tung<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Nguyen Thanh Tung <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div>
 <p>
   - I'm currently learning <b>Chemical Engineering</b> at <a href="https://hcmut.edu.vn">Ho Chi Minh city University of Technology (HCMUT)</a>.
@@ -9,7 +9,7 @@
 </p>
 
 
-<div id="badges" align="center">
+<div id="badges" align="center"> 
   <a href="www.linkedin.com/in/tuzqwork" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
