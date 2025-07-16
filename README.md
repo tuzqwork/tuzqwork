@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tuzqwork2411)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tuzqwork@gmail.com)
 
-I'm seeking for a Data Analyst Fresher position with a passion for learning and exploring the data world.
+I'm seeking a Fresher Data Analyst position with a passion for learning and exploring the data world.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="280" />
 
