@@ -5,13 +5,13 @@
 
 I'm seeking a Fresher Data Analyst position with a passion for learning and exploring the data world.
 
-<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="280" />
+<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="500" height="320" />
 
 **🚀 About me**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Being well-versed in both frontend and backend development allows me to seamlessly bridge the gap between the user interface and server functionality;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I am passionate about learning new languages, frameworks, and tools, which enables me to adapt quickly to changing project requirements and deliver cutting-edge solutions;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RdkxyKzkZw0kKjgGAm34U9-ffF_i-ioP/view?usp=sharing).
+- Being well-versed in both frontend and backend development allows me to seamlessly bridge the gap between the user interface and server functionality;
+- I am passionate about learning new languages, frameworks, and tools, which enables me to adapt quickly to changing project requirements and deliver cutting-edge solutions;
+- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RdkxyKzkZw0kKjgGAm34U9-ffF_i-ioP/view?usp=sharing).
 
 ---
 
@@ -19,8 +19,6 @@ I'm seeking a Fresher Data Analyst position with a passion for learning and expl
 
 ### Databases
 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,7 +27,6 @@ I'm seeking a Fresher Data Analyst position with a passion for learning and expl
 ### Hosting (SaaS)
 
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
 ### Operating System
 
@@ -40,20 +37,15 @@ I'm seeking a Fresher Data Analyst position with a passion for learning and expl
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### Others
-
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ## 📣 Communication
 
 Vietnamese 🇻🇳
 English 🇺🇸
 
-## 👨‍💻 Experience
-
 ## 📚 Education
 
-10/2020 - 06/2024: Bachelor's degree, Chemical Engineering at Ho Chi Minh University of Technology (HCMUT)
++ 10/2020 - 06/2024: Bachelor's degree, Chemical Engineering at Ho Chi Minh University of Technology (HCMUT)
 <br>
-02/2025 - 08/2025: Complete Certificate, Data Analysis Course at Institute of Technology and Digital Economy - Hanoi University of Science and Technology (HUST)
++ 02/2025 - 08/2025: Complete Certificate, Data Analysis Course at Institute of Technology and Digital Economy - Hanoi University of Science and Technology (HUST)
