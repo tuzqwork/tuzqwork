@@ -5,7 +5,7 @@
 
 I'm seeking a Fresher Data Analyst position with a passion for learning and exploring the data world.
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="280" />
+<img align="center" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="280" />
 
 **🚀 About me**
 
