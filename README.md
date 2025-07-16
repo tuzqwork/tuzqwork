@@ -9,9 +9,12 @@ I'm seeking a Fresher Data Analyst position with a passion for learning and expl
 
 **🚀 About me**
 
-- Being well-versed in both frontend and backend development allows me to seamlessly bridge the gap between the user interface and server functionality;
-- I am passionate about learning new languages, frameworks, and tools, which enables me to adapt quickly to changing project requirements and deliver cutting-edge solutions;
-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RdkxyKzkZw0kKjgGAm34U9-ffF_i-ioP/view?usp=sharing).
+- With a solid foundation in SQL, Excel, Python, and Power BI, I’m capable of transforming raw data into meaningful insights to support better business decisions;
+
+- I’m passionate about solving real-world problems with data, continuously learning new tools, frameworks, and analytical techniques to keep up with the fast-evolving data landscape;
+
+- I thrive in collaborative environments and enjoy connecting data with business goals through clear, data-driven storytelling.
+- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RdkxyKzkZw0kKjgGAm34U9-ffF_i-ioP/view?usp=sharing)
 
 ---
 
@@ -48,4 +51,4 @@ English 🇺🇸
 
 + 10/2020 - 06/2024: Bachelor's degree, Chemical Engineering at Ho Chi Minh University of Technology (HCMUT)
 <br>
-+ 02/2025 - 08/2025: Complete Certificate, Data Analysis Course at Institute of Technology and Digital Economy - Hanoi University of Science and Technology (HUST)
++ 02/2025 - 08/2025: Course Certificate, Data Analyst at Institute of Technology and Digital Economy - Hanoi University of Science and Technology (HUST)
